@@ -1,0 +1,35 @@
+C:\Users\tclemen\Desktop\tp7\tp7\obj\Debug\tp7.vbprojResolveAssemblyReference.cache
+C:\Users\tclemen\Desktop\tp7\tp7\obj\Debug\tp7.Form1.resources
+C:\Users\tclemen\Desktop\tp7\tp7\obj\Debug\tp7.Resources.resources
+C:\Users\tclemen\Desktop\tp7\tp7\obj\Debug\tp7.vbproj.GenerateResource.Cache
+C:\Users\tclemen\Desktop\tp7\tp7\bin\Debug\tp7.exe.config
+C:\Users\tclemen\Desktop\tp7\tp7\bin\Debug\tp7.exe
+C:\Users\tclemen\Desktop\tp7\tp7\bin\Debug\tp7.pdb
+C:\Users\tclemen\Desktop\tp7\tp7\bin\Debug\tp7.xml
+C:\Users\tclemen\Desktop\tp7\tp7\obj\Debug\tp7.exe
+C:\Users\tclemen\Desktop\tp7\tp7\obj\Debug\tp7.xml
+C:\Users\tclemen\Desktop\tp7\tp7\obj\Debug\tp7.pdb
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\bin\Debug\tp7.exe.config
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\bin\Debug\tp7.exe
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\bin\Debug\tp7.pdb
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\bin\Debug\tp7.xml
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\obj\Debug\tp7.vbprojResolveAssemblyReference.cache
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\obj\Debug\tp7.Form1.resources
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\obj\Debug\tp7.Resources.resources
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\obj\Debug\tp7.vbproj.GenerateResource.Cache
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\obj\Debug\tp7.vbproj.CoreCompileInputs.cache
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\obj\Debug\tp7.exe
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\obj\Debug\tp7.xml
+C:\Users\Gakineto\Desktop\tp7 (1)\tp7\tp7\obj\Debug\tp7.pdb
+D:\S2\IHM\tp7 (1)\tp7\tp7\bin\Debug\tp7.exe.config
+D:\S2\IHM\tp7 (1)\tp7\tp7\bin\Debug\tp7.exe
+D:\S2\IHM\tp7 (1)\tp7\tp7\bin\Debug\tp7.pdb
+D:\S2\IHM\tp7 (1)\tp7\tp7\bin\Debug\tp7.xml
+D:\S2\IHM\tp7 (1)\tp7\tp7\obj\Debug\tp7.vbprojResolveAssemblyReference.cache
+D:\S2\IHM\tp7 (1)\tp7\tp7\obj\Debug\tp7.Form1.resources
+D:\S2\IHM\tp7 (1)\tp7\tp7\obj\Debug\tp7.Resources.resources
+D:\S2\IHM\tp7 (1)\tp7\tp7\obj\Debug\tp7.vbproj.GenerateResource.Cache
+D:\S2\IHM\tp7 (1)\tp7\tp7\obj\Debug\tp7.vbproj.CoreCompileInputs.cache
+D:\S2\IHM\tp7 (1)\tp7\tp7\obj\Debug\tp7.exe
+D:\S2\IHM\tp7 (1)\tp7\tp7\obj\Debug\tp7.xml
+D:\S2\IHM\tp7 (1)\tp7\tp7\obj\Debug\tp7.pdb
